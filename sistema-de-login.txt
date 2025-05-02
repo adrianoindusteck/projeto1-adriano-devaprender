@@ -1,2 +1,4 @@
 digite seu usuário
 digite sua senha
+digite sua idade
+
